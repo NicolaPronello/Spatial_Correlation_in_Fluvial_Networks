@@ -4,6 +4,7 @@ Authors: N. Pronello, S. Castiglia, V. Frontuto, N. Golini, R. Ignaccolo, L. Ipp
 The following repository containes the R code and the data useful to analyze spatial correlation patterns of water quality variables in fluvial networks.
 
 📁 Folder Structure
+
 R/
 
 This folder contains two R scripts:
